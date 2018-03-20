@@ -7,4 +7,4 @@ Processing exercise (Exercise 2)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise.PNG)
 
 Processing exercise (Exercise 3)
-![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise.PNG)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise_3%20Screenshot.PNG)
