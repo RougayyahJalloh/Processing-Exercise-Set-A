@@ -10,5 +10,8 @@ Processing exercise (Exercise 3)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise_3%20Screenshot.PNG)
 
 
-Processing exercise (Exercise 3)
+Processing exercise (Exercise 4 - My version)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%204%20(my%20version)%20screenshot.PNG)
+
+Processing exercise (Exercise 4 - My version)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%204%20Screenshot.PNG)
