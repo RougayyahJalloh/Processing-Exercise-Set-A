@@ -1,0 +1,20 @@
+int a=1;
+int b= 200;
+void setup() {
+  size(500,400);
+  background(0);
+}
+void draw() {
+  a=(a+3)% width;
+  b=(b+3)% height; 
+  colorMode(HSB,220);
+  stroke(a, b, 220);
+  fill(a,b,320);
+  ellipse(a,200, a/5, a/5);
+  a=(a+1)% width;
+  b=(b+1)% height; 
+  colorMode(HSB,220);
+  stroke(a, b, 220);
+  fill(a,b,320);
+  ellipse(220,a, a/2, a/2);
+} 
