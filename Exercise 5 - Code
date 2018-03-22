@@ -1,7 +1,7 @@
 int a=1;
 int b= 200;
 void setup() {
-  size(500,400);
+  size(280,700);
   background(0);
 }
 void draw() {
@@ -10,7 +10,6 @@ void draw() {
   colorMode(HSB, 220);
   stroke(220);
   fill(a,b,220);
-  ellipse(a,b,50, 50);
+  ellipse(a,b,60, 60);
 
-  
 } 
