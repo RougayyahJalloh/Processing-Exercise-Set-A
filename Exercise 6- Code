@@ -1,0 +1,32 @@
+int x;
+int y ;
+void setup() {
+  size(320, 600);
+  background(255);
+}
+void draw() { 
+  x = 0;
+  while (x<width) {
+    x+=11;
+    y=5;
+    while (y< height) {
+      y+=11;
+      if (x<mouseX && y<mouseY) {
+        fill(x,y,(x+y)%190);
+        ellipse(x, y, 11, 11);
+      } else {
+        fill(255);
+        stroke(255);
+        ellipse(x, y, 11, 11);
+      }
+    }
+  }
+  /*
+  colorMode(HSB);
+   Stroke(0);
+   fill(a,b,100);
+   a=(a+11);
+   */
+}
+//b=(b+11);
+//a=10 ;
