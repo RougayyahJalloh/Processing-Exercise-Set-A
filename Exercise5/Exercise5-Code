@@ -1,1 +1,15 @@
+int a=1;
+int b= 200;
+void setup() {
+  size(280,700);
+  background(0);
+}
+void draw() {
+  a=(a+1)% width;
+  b=(b+12)% height; 
+  colorMode(HSB, 220);
+  stroke(220);
+  fill(a,b,220);
+  ellipse(a,b,60, 60);
 
+} 
