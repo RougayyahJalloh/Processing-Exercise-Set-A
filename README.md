@@ -13,7 +13,7 @@ Processing exercise (Exercise 4)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise4/Gif-Exercise-4.gif)
 
 Processing exercise (Exercise 4 - My version)
-![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%204%20(my%20version)%20screenshot.PNG)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise4/Exercise%204%20(my%20version)%20screenshot.PNG)
 
 Processing exercise (Exercise 5)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%205%20Screenshot.PNG)
