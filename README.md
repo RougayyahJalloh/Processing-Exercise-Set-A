@@ -16,7 +16,7 @@ Processing exercise (Exercise 4 - My version)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise4/Exercise%204%20(my%20version)%20screenshot.PNG)
 
 Processing exercise (Exercise 5)
-![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%205%20Screenshot.PNG)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise5/Gif-Exercise-5.gif)
 
 Processing exercise (Exercise 6)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Webp.net-gifmaker.gif)
