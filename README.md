@@ -1,6 +1,6 @@
 # Processing-Exercise-Set-A
 Processing exercise (Exercise 1)
-![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Image%20Part%201.PNG)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise1/Exercise%201%20Screenshot.PNG)
 
 
 Processing exercise (Exercise 2)
