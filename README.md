@@ -22,4 +22,4 @@ Processing exercise (Exercise 6)
 ![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise6/Gif-Exercise-6.gif)
 
 Processing exercise (Exercise 7)
-![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise%207%20-%20Screenshot.PNG)
+![Sketch](https://github.com/RougayyahJalloh/Processing-Exercise-Set-A/blob/master/Exercise7/Exercise%207%20-%20Screenshot.PNG)
